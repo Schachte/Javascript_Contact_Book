@@ -1,0 +1,9 @@
+#logo {
+
+	font-family: Helvetica;
+	font-size: 40px;
+	letter-spacing: -3px;
+	font-weight: bolder;
+	text-transform: uppercase;
+	border-bottom: 1px dotted grey;
+}
